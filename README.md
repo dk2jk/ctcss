@@ -1,2 +1,3 @@
 ![bild](scope.jpg)
-ctcss generator for ham-radio VHF/UHF- equipement
+
+CTCSS generator for ham-radio VHF/UHF- equipment
